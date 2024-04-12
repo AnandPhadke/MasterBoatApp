@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MasterBoatApp</string>
+    <string name="post_method">POST METHOD</string>
+    <string name="get_method">GET METHOD</string>
+</resources>
